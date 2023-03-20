@@ -6,6 +6,9 @@ int main(){
         scanf("%d ",&a[i]);
         if (a[i]%2!=0){
             j++;
+            
+            
+            
         }
     }
     if(j<3){
